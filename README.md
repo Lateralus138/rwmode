@@ -17,6 +17,7 @@ Read, toggle, or set a file&#39;s Read&#47;Write mode in Windows&#46;
     - [Current X64 MD5](#current-x64-md5)
   - [Media](#media)
   - [LICENSE](#license)
+  - [Support Me If You Like](#support-me-if-you-like)
 
 ---
 
